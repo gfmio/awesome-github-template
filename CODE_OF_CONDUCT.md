@@ -1,5 +1,12 @@
 # Contributor Covenant Code of Conduct
 
+[//]: # "This is the code of conduct of your project. It outlines the standards"
+[//]: # "you set for your community and how you enforce them. This particular"
+[//]: # "code of conduct is the Contributor Covenant 2.0, one of the most"
+[//]: # "popular code of conducts for open source projects."
+[//]: # "Make sure to update your contact information in the enforcement"
+[//]: # "section below before using this template."
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
@@ -60,7 +67,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
+[git@gfm.io](mailto:git@gfm.io).
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
