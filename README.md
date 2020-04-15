@@ -1,70 +1,30 @@
 # awesome-github-template
 
-[//]: # "The README of a Github project is the central entrypoint where people"
+[//]: # "The README of a GitHub project is the central entrypoint where people"
 [//]: # "land when they visit your project. You should provide useful"
 [//]: # "information like features, install and usage instructions and invite"
 [//]: # "others to contribute to your project."
 
-This is a template repository for awesome Github projects. 🦄 Batteries
+This is a template repository for awesome GitHub projects. 🦄 Batteries
 included. 🚀
 
 [//]: # "These are shields which can display useful stats about your project"
 [//]: # "and package. Check out shields.io for more info and all available"
 [//]: # "shields."
 
-<p align="center">
-  <!-- License -->
-  <a href="https://github.com/gfmio/awesome-github-template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/gfmio/awesome-github-template.svg" alt="Github license" title="Github license" />
-  </a>
-  <!-- Open issues -->
-  <a href="https://github.com/gfmio/awesome-github-template/issues">
-    <img src="https://img.shields.io/github/issues/gfmio/awesome-github-template.svg" alt="Open issues" title="Open issues" />
-  </a>
-  <!-- Closed issues -->
-  <a href="https://github.com/gfmio/awesome-github-template/issues?utf8=✓&q=is%3Aissue+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-closed/gfmio/awesome-github-template.svg" alt="Closed issues" title="Closed issues" />
-  </a>
-  <!-- Open Pull Requests -->
-  <a href="https://github.com/gfmio/awesome-github-template/pulls">
-    <img src="https://img.shields.io/github/issues-pr/gfmio/awesome-github-template.svg" alt="Open Pull Requests" title="Open Pull Requests" />
-  </a>
-  <!-- Closed Pull Requests -->
-  <a href="https://github.com/gfmio/awesome-github-template/pulls?utf8=✓&q=is%3Apr+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-pr-closed/gfmio/awesome-github-template.svg" alt="Closed Pull Requests" title="Closed Pull Requests" />
-  </a>
-  <!-- Commit activity -->
-  <a href="https://github.com/gfmio/awesome-github-template/graphs/commit-activity">
-    <img src="https://img.shields.io/github/commit-activity/m/gfmio/awesome-github-template.svg" alt="Commit activity" title="Commit activity" />
-  </a>
-  <!-- Contributors -->
-  <a href="https://github.com/gfmio/awesome-github-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/gfmio/awesome-github-template.svg" alt="Github contributors" title="Github contributors" />
-  </a>
-  <!-- Last commit -->
-  <a href="https://github.com/gfmio/awesome-github-template/commits/master">
-    <img src="https://img.shields.io/github/last-commit/gfmio/awesome-github-template.svg" alt="Last commit" title="Last commit" />
-  </a>
-</p>
+[![Github license](https://img.shields.io/github/license/gfmio/awesome-github-template.svg "Github license")](https://github.com/gfmio/awesome-github-template/blob/master/LICENSE)
+[![Open issues](https://img.shields.io/github/issues/gfmio/awesome-github-template.svg "Open issues")](https://github.com/gfmio/awesome-github-template/issues)
+[![Closed issues](https://img.shields.io/github/issues-closed/gfmio/awesome-github-template.svg "Closed issues")](https://github.com/gfmio/awesome-github-template/issues?utf8=✓&q=is%3Aissue+is%3Aclosed)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr/gfmio/awesome-github-template.svg "Open Pull Requests")](https://github.com/gfmio/awesome-github-template/pulls)
+[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/gfmio/awesome-github-template.svg "Closed Pull Requests")](https://github.com/gfmio/awesome-github-template/pulls?utf8=✓&q=is%3Apr+is%3Aclosed)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/gfmio/awesome-github-template.svg "Commit activity")](https://github.com/gfmio/awesome-github-template/graphs/commit-activity)
+[![GitHub contributors](https://img.shields.io/github/contributors/gfmio/awesome-github-template.svg "Github contributors")](https://github.com/gfmio/awesome-github-template/graphs/contributors)
+[![Last commit](https://img.shields.io/github/last-commit/gfmio/awesome-github-template.svg "Last commit")](https://github.com/gfmio/awesome-github-template/commits/master)
 
-<p align="center">
-  <!-- Actively maintained (Year) -->
-  <a href="#">
-    <img src="https://img.shields.io/maintenance/yes/2020.svg" alt="Actively maintained (2020)" title="Actively maintained (2020)" />
-  </a>
-  <!-- Website up/down -->
-  <a href="#">
-    <img src="https://img.shields.io/website-up-down-green-red/https/github.com/gfmio/awesome-github-template.svg" alt="" title="" />
-  </a>
-  <!-- Twitter -->
-  <a href="https://twitter.com/gfmio">
-    <img src="https://img.shields.io/twitter/follow/gfmio.svg?label=follow+@gfmio" alt="Follow @gfmio on Twitter" title="Follow @gfmio on Twitter">
-  </a>
-  <!-- All contributors -->
-  <a href="#contributors">
-    <img alt="All Contributors" src="https://img.shields.io/badge/all_contributors-1-orange.svg">
-  </a>
-</p>
+![Actively maintained (2020)](https://img.shields.io/maintenance/yes/2020.svg "Actively maintained (2020)")
+![Website up/down](https://img.shields.io/website-up-down-green-red/https/github.com/gfmio/awesome-github-template.svg "Website up/down")
+[![Follow @gfmio on Twitter](https://img.shields.io/twitter/follow/gfmio.svg?label=follow+@gfmio "Follow @gfmio on Twitter")](https://twitter.com/gfmio)
+[![All Contributors](https://img.shields.io/badge/all_contributors-orange.svg "All Contributors")](README.md#contributors)
 
 ## Features
 
@@ -82,7 +42,7 @@ included. 🚀
 
 ## Usage
 
-You can use this repository via Github's template repository feature. This will
+You can use this repository via GitHub's template repository feature. This will
 create a new repository with a single commit adding all files of this repository
 to your new one.
 
@@ -94,7 +54,7 @@ into yours using:
 git remote add upstream git@github.com:gfmio/awesome-github-template.git
 ```
 
-More on that can be found on Github:
+More on that can be found on GitHub:
 [Syncing a fork](https://help.github.com/articles/syncing-a-fork/).
 
 Or you can just pick and choose the parts you want and ignore the rest.
