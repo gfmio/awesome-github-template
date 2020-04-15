@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "gfmio",
+      "name": "Frédérique Mittelstaedt",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2878342?v=4",
+      "profile": "https://www.gfm.io",
+      "contributions": [
+        "doc",
+        "ideas",
+        "infra",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "awesome-github-template",
+  "projectOwner": "gfmio",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
