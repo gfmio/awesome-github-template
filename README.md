@@ -23,8 +23,11 @@ included. 🚀
 ![Actively maintained (2020)](https://img.shields.io/maintenance/yes/2020.svg "Actively maintained (2020)")
 ![Website up/down](https://img.shields.io/website-up-down-green-red/https/github.com/gfmio/awesome-github-template.svg "Website up/down")
 [![Follow @gfmio on Twitter](https://img.shields.io/twitter/follow/gfmio.svg?label=follow+@gfmio "Follow @gfmio on Twitter")](https://twitter.com/gfmio)
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Features
@@ -60,6 +63,9 @@ More on that can be found on GitHub:
 
 Or you can just pick and choose the parts you want and ignore the rest.
 
+When using the templates in this repository, please ensure to update any names
+and contact details in the files.
+
 ## Contributing
 
 If you've ever wanted to contribute to open source, now is your chance!
@@ -81,9 +87,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors)
+specification. Contributions of any kind welcome!
 
 ## LICENSE
 
