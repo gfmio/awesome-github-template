@@ -1,16 +1,15 @@
 # awesome-github-template
 
-[//]: # "The README of a GitHub project is the central entrypoint where people"
-[//]: # "land when they visit your project. You should provide useful"
-[//]: # "information like features, install and usage instructions and invite"
-[//]: # "others to contribute to your project."
+> The README of a GitHub project is the central entrypoint where people land
+> when they visit your project. You should provide useful information like
+> features, install and usage instructions and invite others to contribute to
+> your project.
 
 This is a template repository for awesome GitHub projects. 🦄 Batteries
 included. 🚀
 
-[//]: # "These are shields which can display useful stats about your project"
-[//]: # "and package. Check out shields.io for more info and all available"
-[//]: # "shields."
+> These are shields which can display useful stats about your project. Check
+> out shields.io for more info and all available shields.
 
 [![Github license](https://img.shields.io/github/license/gfmio/awesome-github-template.svg "Github license")](https://github.com/gfmio/awesome-github-template/blob/master/LICENSE)
 [![Open issues](https://img.shields.io/github/issues/gfmio/awesome-github-template.svg "Open issues")](https://github.com/gfmio/awesome-github-template/issues)
