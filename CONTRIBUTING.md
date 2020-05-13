@@ -171,11 +171,7 @@ If at any time you have concerns or are uncertain whether your security research
 
 ### CI
 
-All pull requests and commits to the repository trigger automatic builds on [Travis.CI](https://travis-ci.com/gfmio/example-calculator).
-
-Commits to `master` trigger `semantic-release`, which generates the changelog, increases the package version and releases the package.
-
-The test coverage reports are submitted to [CodeCov](https://codecov.io/gh/gfmio/example-calculator) and [Code Climate](https://codeclimate.com/github/gfmio/example-calculator).
+...
 
 ## Attribution
 
