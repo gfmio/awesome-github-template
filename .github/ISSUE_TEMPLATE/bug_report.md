@@ -6,10 +6,12 @@ labels: ""
 assignees: ""
 ---
 
-**Describe the bug**  
-A clear and concise description of what the bug is.
+**Describe the bug**
+<!-- A clear and concise description of what the bug is. -->
 
-**To Reproduce**  
+
+
+**To Reproduce**
 Steps to reproduce the behavior:
 
 1. Go to '...'
@@ -17,18 +19,25 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**  
-A clear and concise description of what you expected to happen.
+**Expected behavior**
+<!-- A clear and concise description of what you expected to happen. -->
 
-**Screenshots**  
-If applicable, add screenshots to help explain your problem.
 
-**Your environment (please complete the following information):**
+
+**Screenshots**
+<!-- If applicable, add screenshots to help explain your problem. -->
+
+
+
+**Your environment:**
+<!-- Please complete the following information -->
 
 - Device: [e.g. iPhone6]
 - OS: [e.g. macOS Mojave, iOS 12, Windows 10]
 - node.js/Browser: [e.g. node.js, chrome, safari]
 - Version: [e.g. 22]
 
-**Additional context**  
-Add any other context about the problem here.
+**Additional context**
+<!-- Add any other context about the problem here. -->
+
+
